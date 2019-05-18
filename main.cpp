@@ -9,7 +9,7 @@
 ///-  r :to move camera right
 ///-  s :to break
 
-/// NOTE: this work is done depending on my on skills in c language and opengl  and it take more than 10 days of work
+/// NOTE: this work is done depends C++ and OpenGL
 #include <windows.h>
 #include <iostream>
 #include <stdlib.h>
