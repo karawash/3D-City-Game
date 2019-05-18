@@ -1,5 +1,7 @@
 ## 3D-City-Game
 
+In this Game, you can drive a car in a city.
+
 YOU MAY USE THESE CABS FROM THE KEYBOARD SMALL LETTER (CASE SENSITVE) :
 -  w :to go forward
 -  d :to go right
